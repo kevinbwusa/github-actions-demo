@@ -1,0 +1,6 @@
+	// Configure editor settings to be overridden for [yaml] language.
+	"[yaml]":  {
+		"editor.insertSpaces": true,
+		"editor.tabSize": 2,
+		"editor.autoIndent": false
+	},
